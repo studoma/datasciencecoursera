@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "US"
+date: "8/9/2020"
+output: pdf_document
+---
+
+## This is a markdown file
+The R code for printing Hello World is:
+```{r}
+print("HelloWorld")
+```
+
